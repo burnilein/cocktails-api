@@ -326,7 +326,7 @@ style.css
    left: 0px;
    width: 100vw;
    height: 100vh;
-   background-color: rgba(0, 0, 0, 0.5);
+   background-color: rgba(0, 0, 0, 20);
 }
 
 #spotlight-card {
